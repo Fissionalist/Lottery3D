@@ -3,7 +3,7 @@ table{text-align: center;}
 </style>
 
 # Lottery3D实验报告
-<p align="right">周文龙1910759</p>
+<p align="right">no comment</p>
 [toc]
 
 ## 主要功能
