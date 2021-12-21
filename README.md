@@ -1,10 +1,5 @@
-<style type="text/css">
-table{text-align: center;}
-</style>
-
 # Lottery3D实验报告
 <p align="right">no comment</p>
-[toc]
 
 ## 主要功能
 1.	实现**单选**、**组选**、**1D**、**猜1D**、**2D**、**和数**六种玩法，玩家选择一种游戏模式或者**退出游戏**。
